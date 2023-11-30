@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(55, 209, 209);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 350px;
+    margin: 0 auto;
+}
+.main {
+    background-color: rgb(239, 245, 245);
+    width: 400px;
+    height: 450px;
+    margin: 60px auto;
+    padding: 30px 0;
+}
+.head {
+color: rgb(1, 1, 125);
+margin-left: 60px;
+}
+textarea {
+    width: 200px;
+    height: 100px;
+}
+.container {
+    margin-left: 60px;
+}
+#fname {
+    margin-bottom: 15px;
+}
+#lname {
+    margin-bottom: 15px;
+}
+#email {
+    margin-bottom: 15px;
+}
+#number {
+    margin-bottom: 15px;
+}
+#password {
+    margin-bottom: 15px;
+}
+#confirm {
+    margin-bottom: 15px;
+}
+.register {
+    background-color: rgb(7, 7, 125);
+    color: aliceblue;
+}
+a {
+    color: blue;
+}
